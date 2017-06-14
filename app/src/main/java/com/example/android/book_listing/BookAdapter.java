@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import com.example.android.booklisting.R;
+import com.example.android.book_listing.R;
 import com.squareup.picasso.Picasso;
 
 /**

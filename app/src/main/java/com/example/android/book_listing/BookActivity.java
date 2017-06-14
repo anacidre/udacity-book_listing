@@ -10,9 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.android.booklisting.R;
+import com.example.android.book_listing.R;
 
-import static com.example.android.booklisting.R.id.search_title;
+import static com.example.android.book_listing.R.id.search_title;
 
 public class BookActivity extends AppCompatActivity {
 
