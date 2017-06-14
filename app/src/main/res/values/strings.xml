@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">book_listing</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="page_count">Page count</string>
+    <string name="type_title_here"> Title here</string>
+    <string name="search_button">Search</string>
+    <string name="no_data_found">No data found</string>
+</resources>

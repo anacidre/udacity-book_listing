@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">16sp</dimen>
+    <dimen name="author">12sp</dimen>
+    <dimen name="margin_search_button">16dp</dimen>
+    <dimen name="paddingLeft">6dp</dimen>
+    <dimen name="paddingRight">6dp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="textSizeRest">12sp</dimen>
+    <dimen name="marginLinearLayout">16dp</dimen>
+    <dimen name="marginTitle">16dp</dimen>
+    <dimen name="titleSize">60sp</dimen>
+    <dimen name="buttonTextSize">18sp</dimen>
+
+</resources>
